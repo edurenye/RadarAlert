@@ -26,5 +26,6 @@ proguard/
 *.log
 
 # Android Studio
+local.properties
 .idea/
 .DS_Store

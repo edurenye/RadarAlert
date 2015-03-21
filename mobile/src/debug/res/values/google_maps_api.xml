@@ -1,0 +1,18 @@
+<resources>
+    <!--
+    TODO: Before you run your application, you need a Google Maps API key.
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=16:48:93:00:0F:81:FF:E3:3B:31:28:A4:E8:7E:FE:45:89:56:66:84%3Borg.dyndns.edurenye.radaralert
+
+    You can also add your credentials to an existing key, using this line:
+    16:48:93:00:0F:81:FF:E3:3B:31:28:A4:E8:7E:FE:45:89:56:66:84;org.dyndns.edurenye.radaralert
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+    -->
+    <string name="google_maps_key" translatable="false" templateMergeStrategy="preserve">
+        AIzaSyCmA15tNWqK8au4sjvN6o4L5124X8l6YKk
+    </string>
+</resources>
